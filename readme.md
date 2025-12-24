@@ -12,39 +12,21 @@
 ### POS (Web)
 [`@release/pos-v1`](https://github.com/KibleLab/kible/tree/@release/pos-v1)
 
-![React](https://img.shields.io/badge/React-181717?style=flat-square&logo=React)
-![React Router](https://img.shields.io/badge/React%20Router-181717?style=flat-square&logo=React%20Router)
-![Redux](https://img.shields.io/badge/Redux-181717?style=flat-square&logo=Redux)
-![Redux-Saga](https://img.shields.io/badge/Redux--Saga-181717?style=flat-square&logo=Redux-Saga)
-![MUI](https://img.shields.io/badge/MUI-181717?style=flat-square&logo=MUI)
-![Axios](https://img.shields.io/badge/Axios-181717?style=flat-square&logo=Axios)
-![Socket.IO](https://img.shields.io/badge/Socket.IO%20Client-181717?style=flat-square&logo=Socket.io)
-![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=flat-square&logo=TypeScript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![Redux Saga](https://img.shields.io/badge/Redux--Saga-999999?style=for-the-badge&logo=redux-saga&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO_Client-010101?style=for-the-badge&logo=socket.io&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
 ### Mobile (Web)
 [`@release/mobile-v1`](https://github.com/KibleLab/kible/tree/@release/mobile-v1)
 
-![React](https://img.shields.io/badge/React-181717?style=flat-square&logo=React)
-![React Router](https://img.shields.io/badge/React%20Router-181717?style=flat-square&logo=React%20Router)
-![Redux](https://img.shields.io/badge/Redux-181717?style=flat-square&logo=Redux)
-![Redux-Saga](https://img.shields.io/badge/Redux--Saga-181717?style=flat-square&logo=Redux-Saga)
-![MUI](https://img.shields.io/badge/MUI-181717?style=flat-square&logo=MUI)
-![Axios](https://img.shields.io/badge/Axios-181717?style=flat-square&logo=Axios)
-![Socket.IO](https://img.shields.io/badge/Socket.IO%20Client-181717?style=flat-square&logo=Socket.io)
-![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=flat-square&logo=TypeScript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![Redux Saga](https://img.shields.io/badge/Redux--Saga-999999?style=for-the-badge&logo=redux-saga&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO_Client-010101?style=for-the-badge&logo=socket.io&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
 ### Back-end
 [`@release/be-v1`](https://github.com/KibleLab/kible/tree/@release/be-v1)
 
-![Express](https://img.shields.io/badge/Express-181717?style=flat-square&logo=Express)
-![TypeORM](https://img.shields.io/badge/TypeORM-181717?style=flat-square&logo=TypeORM)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-181717?style=flat-square&logo=Socket.io)
-![MariaDB](https://img.shields.io/badge/MariaDB-181717?style=flat-square&logo=MariaDB)
-![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=flat-square&logo=TypeScript)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
