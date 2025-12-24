@@ -1,4 +1,4 @@
-# Kible 
+# [Kible] POS & Kiosk
 
 **QR 코드를 스캔하여 모바일로 주문하는 일반 음식점용 주문 시스템**
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 🔗 Repositories (v1)
+## Repositories (v1)
 
 ### POS (Web)
 [`@release/pos-v1`](https://github.com/KibleLab/kible/tree/@release/pos-v1)
@@ -48,7 +48,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 - **프로젝트명**: Kible  
 - **도메인**: 일반 음식점용 QR 주문 시스템  
@@ -57,7 +57,7 @@
 
 ---
 
-## 👥 Team
+## Team
 
 | 이름 | 역할 |
 |---|---|
