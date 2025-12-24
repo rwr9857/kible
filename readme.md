@@ -45,11 +45,11 @@
 <p align="center">
   <img src="./imgs/pos/Main.png" width="420" alt="POS 메인 테이블 화면" />
   &nbsp;&nbsp;&nbsp;
-  <img src="./imgs/pos/Menu Management.png" width="420" alt="POS 메뉴 관리 화면" />
+  <img src="./imgs/pos/MenuManagement.png" width="420" alt="POS 메뉴 관리 화면" />
 </p>
 
 <p align="center">
-  <img src="./imgs/pos/Menu Select.png" width="420" alt="POS 메뉴 선택 화면" />
+  <img src="./imgs/pos/MenuSelect.png" width="420" alt="POS 메뉴 선택 화면" />
   &nbsp;&nbsp;&nbsp;
   <img src="./imgs/pos/OrderSheet.png" width="420" alt="POS 결제 화면" />
 </p>
