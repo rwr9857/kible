@@ -1,4 +1,4 @@
-# [Kible] POS & Kiosk
+# 프로젝트 명 : [Kible] POS & Kiosk
 
 **QR 코드를 스캔하여 모바일로 주문하는 일반 음식점용 주문 시스템**
 
