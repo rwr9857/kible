@@ -41,10 +41,13 @@
 
 ## Team
 
-| 이름 | 역할 |
-|---|---|
-| **이현준 (팀장)** | UI/UX 설계, Full-Stack 개발, 문서화 |
-| **김준기 (팀원)** | ERD 설계, Full-Stack 개발, 기술 조사 |
+<table border="1">
+  <tr>
+    <td align="center"><a href="https://github.com/RegistryHJ"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/55695897?v=4" alt="이현준 GitHub"/></a>         </td> 
+    <td align="left">이현준 (팀장)</br>UI/UX설계, FullStack, 문서화</td> </tr> <tr> <td align="center"><a href="https://github.com/Vulpes94"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/74402423?v=4" alt="김준기 GitHub"/></a></td> 
+    <td align="left">김준기 (팀원)</br>ERD설계, FullStack, 자료조사</td> 
+  </tr> 
+</table>
 
 ---
 
