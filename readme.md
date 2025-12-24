@@ -39,6 +39,24 @@
 
 ---
 
+## Mobile UI Preview
+
+> 고객이 사용하는 모바일 주문 화면 (v1)
+
+<p align="center">
+  <img src="./imgs/mobile/MenuSelect.png" width="220" alt="메뉴 선택 화면" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./imgs/mobile/WishList.png" width="220" alt="찜목록 화면" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./imgs/mobile/OrderSheet.png" width="220" alt="주문서 화면" />
+</p>
+
+### 화면 설명
+- **메뉴**: 음식 메뉴 조회 및 가격 확인
+- **찜목록**: 선택한 메뉴 수량 조절 및 삭제
+- **주문서**: 테이블 단위 주문 내역 확인 및 결제 금액 표시
+
+
 ## Team
 
 <table border="1">
