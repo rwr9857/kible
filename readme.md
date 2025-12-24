@@ -38,6 +38,28 @@
 - **제작 기간**: 2021.01 ~ 2021.11  
 
 ---
+## POS UI Preview
+
+> 점주가 사용하는 POS 관리 화면 (v1)
+
+<p align="center">
+  <img src="./imgs/pos/Main.png" width="420" alt="POS 메인 테이블 화면" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./imgs/pos/MenuManagement.png" width="420" alt="POS 메뉴 관리 화면" />
+</p>
+
+<p align="center">
+  <img src="./imgs/pos/Menu Select.png" width="420" alt="POS 메뉴 선택 화면" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./imgs/pos/OrderSheet.png" width="420" alt="POS 결제 화면" />
+</p>
+
+### 화면 설명
+- **메인 화면**: 테이블별 주문 현황 실시간 확인
+- **메뉴 관리**: 상품 등록, 삭제 및 가격 설정
+- **메뉴 선택**: POS기 고객 주문 및 수량 선택
+- **결제**: 주문 내역 확인 및 결제
+
 
 ## Mobile UI Preview
 
