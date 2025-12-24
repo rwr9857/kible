@@ -66,7 +66,7 @@
 
 ---
 
-## 🎯 Background & Motivation
+## Background & Motivation
 
 ### 시장 현황
 - COVID-19 이후 비대면 주문 및 키오스크 확산
@@ -74,7 +74,6 @@
 
 ### 기존 시스템의 한계
 - 태블릿 기반 시스템의 높은 초기 비용 및 유지 관리 부담
-- 기존 주문 서비스는 추가 주문·테이블 단위 관리에 한계
 
 ### 목표
 - QR 코드 기반 모바일 주문 환경 제공
@@ -83,7 +82,7 @@
 
 ---
 
-## 🛠️ System Architecture (v1)
+## System Architecture (v1)
 
 - **Mobile**: 고객 주문 UI
 - **POS**: 주문 관리 및 상태 처리
@@ -93,11 +92,10 @@
 - **Infra**
   - AWS EC2
   - NGINX Reverse Proxy + SSL
-  - Docker 기반 DB 배포
 
 ---
 
-## 🗓️ Development Timeline
+## Development Timeline
 
 ### 선행 연구 (1 ~ 2월)
 - React 생태계
@@ -120,7 +118,6 @@
 - WebSocket / Socket.IO
 - AWS EC2 배포
 - NGINX Reverse Proxy, SSL
-- Docker 기반 DB 운영
 
 ### 유지보수 (11월 ~)
 - QA 및 버그 수정
