@@ -65,6 +65,20 @@
 
 <br />
 
+## Team
+
+<table border="1">
+  <tr>
+    <td align="center"><a href="https://github.com/RegistryHJ"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/55695897?v=4" alt="이현준 GitHub"/></a></td>
+    <td align="left">이현준</br>PM, FullStack, UI/UX설계, 문서화</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Vulpes94"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/74402423?v=4" alt="김준기 GitHub"/></a></td>
+    <td align="left">김준기</br>UI/UX 설계, ERD 설계 <br/> Front-End : 70% Back-End : 20% 기여  <br/>  자료조사(리액트 프레임워크 사용법 등)</td>
+  </tr>
+</table>
+
+<br />
 
 ## Overview
 
@@ -74,7 +88,27 @@
 - **기여도**: 50%
 - **총 인원**: 2명
 
-## Preview
+## Background
+
+### 현황
+
+- 대다수의 패스트푸드점이나 카페 같은 곳에서는 COVID-19를 기점으로 Kiosk를 확충함.
+- 일반음식점은 테이블에서 태블릿을 활용하여 주문하는 시스템이 보급되고 있음.
+
+### 기존 시스템의 문제점
+
+- 테이블에서 태블릿을 활용하여 주문하는 시스템의 경우, 점주의 입장에서 관리 및 비용적인 부분에 많은 투자를 필요로 함.
+- 네이버 주문과 같은 서비스의 경우 이 프로젝트와 맥락은 같으나, 식사를 하면서 추가 주문을 하고, 최종적으로 결제를 하게 되는 일반음식점의 환경과 맞지 않음.
+
+### 목표
+
+- QR코드를 스캔하여 모바일로 주문할 수 있는 Mobile 환경 제작
+- 주문을 실시간으로 수신하고, 관리할 수 있는 POS 시스템 제작
+- Mobile과 POS 간의 양방향 실시간 통신 및 데이터 관리를 위한 Sever 제작
+
+<br />
+
+## UI Preview
 
 ### POS UI
 
@@ -282,78 +316,64 @@
 
 ![](./images/ERD.svg)
 
-## Architecture
+## System Architecture
 
 ![](images/SystemArch.svg)
 
+## Timeline
 
-## Team
-
-<table border="1">
-  <tr>
-    <td align="center"><a href="https://github.com/RegistryHJ"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/55695897?v=4" alt="이현준 GitHub"/></a></td>
-    <td align="left">이현준</br>PM, FullStack, UI/UX설계, 문서화</td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/Vulpes94"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/74402423?v=4" alt="김준기 GitHub"/></a></td>
-    <td align="left">김준기</br>UI/UX 설계, ERD 설계 <br/> Front-End : 70% Back-End : 20% 기여  <br/>  자료조사(리액트 프레임워크 사용법 등)</td>
-  </tr>
+<table width="100%">
+    <thead>
+        <tr style="background-color: #f8f9fa; border-bottom: 2px solid #ccc;">
+            <th align="left" width="25%">Period</th>
+            <th align="left" width="25%">Phase</th>
+            <th align="left" width="50%">Key Tasks</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>2021.01 ~ 02</td>
+            <td>선행 연구</td>
+            <td>
+                • React Library 연구<br>
+                • Express Framework 분석<br>
+                • ORM 학습
+            </td>
+        </tr>
+        <tr>
+            <td>2021.03 ~ 04</td>
+            <td>프로젝트 설계</td>
+            <td>
+                • UI/UX 및 ERD 설계<br>
+                • FE / BE Architecture 설계
+            </td>
+        </tr>
+        <tr>
+            <td>2021.05 ~ 08</td>
+            <td>프로젝트 구현</td>
+            <td>
+                • FE(POS, Mobile) & BE 개발<br>
+                • HTTP 통신 및 Logging 시스템 구축
+            </td>
+        </tr>
+        <tr>
+            <td>2021.09 ~ 10</td>
+            <td>실시간 통신/배포</td>
+            <td>
+                • Socket.IO 기반 실시간 기능 구현<br>
+                • AWS EC2, NGINX 배포 (SSL 적용)<br>
+                • Docker 기반 Database 컨테이너화
+            </td>
+        </tr>
+        <tr>
+            <td>2021.11</td>
+            <td>유지보수</td>
+            <td>
+                • QA 및 버그 수정<br>
+                • 의존성 관리 및 서버 보안 강화
+            </td>
+        </tr>
+    </tbody>
 </table>
 
 <br />
-
-## Background
-
-### 현황
-
-- 대다수의 패스트푸드점이나 카페 같은 곳에서는 COVID-19를 기점으로 Kiosk를 확충함.
-- 일반음식점은 테이블에서 태블릿을 활용하여 주문하는 시스템이 보급되고 있음.
-
-### 기존 시스템의 문제점
-
-- 테이블에서 태블릿을 활용하여 주문하는 시스템의 경우, 점주의 입장에서 관리 및 비용적인 부분에 많은 투자를 필요로 함.
-- 네이버 주문과 같은 서비스의 경우 이 프로젝트와 맥락은 같으나, 식사를 하면서 추가 주문을 하고, 최종적으로 결제를 하게 되는 일반음식점의 환경과 맞지 않음.
-
-### 목표
-
-- QR코드를 스캔하여 모바일로 주문할 수 있는 Mobile 환경 제작
-- 주문을 실시간으로 수신하고, 관리할 수 있는 POS 시스템 제작
-- Mobile과 POS 간의 양방향 실시간 통신 및 데이터 관리를 위한 Sever 제작
-
-<br />
-
-## Timeline
-
-### 선행 연구 (1~2월)
-
-- React Library
-- Express Framework
-- Object Relational Mapping
-
-### 프로젝트 설계 (3~4월)
-
-- UI/UX 설계
-- ERD 설계
-- Back-end Architecture 설계
-- Front-end Architecture 설계
-
-### 프로젝트 구현 (5~8월)
-
-- 목업 데이터 구현
-- Front-end(POS, Mobile) 구현
-- Back-end 구현
-- FE, BE 간 HTTP 통신 구현
-- Logging 구현
-
-### 실시간 통신 구현 및 배포 (9~10월)
-
-- 실시간 통신 (WebSocket, Socket.IO) 선행 연구
-- FE, BE 간 Socket.IO 통신 구현
-- AWS EC2에 NGINX로 Reverse Proxy 및 SSL 적용하여 배포
-- DataBase를 Docker를 사용하여 AWS EC2에 배포
-
-### 유지보수 및 관리 (11월~)
-
-- QA 및 버그 수정
-- 의존성 업데이트 관리
-- 배포 서버 보안 관리
