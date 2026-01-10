@@ -25,8 +25,7 @@
 
 ### Kible Mobile
 
-[**GitHub Link**](https://github.com/KibleLab/kible-mobile/tree/legacy)
-
+[**GitHub Link**](https://github.com/rwr9857/kible-mobile-legacy)
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
