@@ -295,7 +295,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Vulpes94"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/74402423?v=4" alt="김준기 GitHub"/></a></td>
-    <td align="left">김준기</br>FullStack, ERD설계, 자료조사</td>
+    <td align="left">김준기</br>UI/UX 설계, ERD 설계 <br/> Front-End : 70% Back-End : 20% 기여  <br/>  자료조사(리액트 프레임워크 사용법 등)</td>
   </tr>
 </table>
 
